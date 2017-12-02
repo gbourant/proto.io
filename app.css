@@ -1,0 +1,9 @@
+#app{
+    border : 2px black solid;
+    overflow: scroll;
+}
+
+.box{
+    background-color: rgb(151, 151, 151);
+    margin : 5px;
+}
